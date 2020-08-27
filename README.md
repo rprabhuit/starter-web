@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work. Test. before merge. for rebase.
+This repository is for showing how Git and GitHub work. Test. before merge. for rebase, more changes in myfeature branch.
 
 ## Purpose
 
