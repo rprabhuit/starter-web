@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work. Test. before merge.
+This repository is for showing how Git and GitHub work. Test. before merge. for rebase.
 
 ## Purpose
 
